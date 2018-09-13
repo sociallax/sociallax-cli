@@ -1,0 +1,26 @@
+{
+  "name": "@sociallax/cli",
+  "version": "0.0.0",
+  "description": "CLI tool for Sociallax ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "sociallax"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sociallax/sociallax-cli.git"
+  },
+  "author": "intellocator",
+  "license": "ISC",
+  "bin": {
+    "intell": "./bin/cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/sociallax/sociallax-cli/issues"
+  },
+  "homepage": "https://github.com/sociallax/sociallax-cli#readme",
+  "main": "index.js"
+}
